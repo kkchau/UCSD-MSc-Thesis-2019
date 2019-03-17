@@ -1,14 +1,50 @@
-\begin{thebibliography}{Mar83}
+\begin{thebibliography}{1}
 
-\bibitem[Mar83]{Martin_1983}
-Robert~D. Martin.
-\newblock {\em Human Brain Evolution in an Ecological Context}.
-\newblock American Museum of Natural History, 1983.
+\bibitem{Pan2008}
+Qun Pan, Ofer Shai, Leo~J. Lee, Brendan~J. Frey, and Benjamin~J. Blencowe.
+\newblock {Deep surveying of alternative splicing complexity in the human
+  transcriptome by high-throughput sequencing}.
+\newblock {\em Nature Genetics}, 40(12):1413--1415, 2008.
 
-\bibitem[RI99]{Rilling_Insel_1999}
-James~K. Rilling and Thomas~R. Insel.
-\newblock The primate neocortex in comparative perspective using magnetic
-  resonance imaging.
-\newblock {\em Journal of Human Evolution}, 37(2):191--223, 1999.
+\bibitem{Wang2008}
+Eric~T. Wang, Rickard Sandberg, Shujun Luo, Irina Khrebtukova, Lu~Zhang,
+  Christine Mayr, Stephen~F. Kingsmore, Gary~P. Schroth, and Christopher~B.
+  Burge.
+\newblock {Alternative isoform regulation in human tissue transcriptomes}.
+\newblock {\em Nature}, 456(7221):470--476, 2008.
+
+\bibitem{Nilsen2010}
+Timothy~W. Nilsen and Brenton~R. Graveley.
+\newblock {Expansion of the eukaryotic proteome by alternative splicing}.
+\newblock {\em Nature}, 463(7280):457--463, 2010.
+
+\bibitem{Porter2018}
+Robert~S. Porter, Farris Jaamour, and Shigeki Iwase.
+\newblock {Neuron-specific alternative splicing of transcriptional machineries:
+  Implications for neurodevelopmental disorders}, mar 2018.
+
+\bibitem{Yeo2004}
+Gene Yeo, Dirk Holste, Gabriel Kreiman, and Christopher~B Burge.
+\newblock {Variation in alternative splicing across human tissues.}
+\newblock {\em Genome Biology}, 5(10):R74, 2004.
+
+\bibitem{Xu2002}
+Q.~Xu.
+\newblock {Genome-wide detection of tissue-specific alternative splicing in the
+  human transcriptome}.
+\newblock {\em Nucleic Acids Research}, 30(17):3754--3766, 2002.
+
+\bibitem{Carter2004}
+Scott~L. Carter, Christian~M. Brechb{\"{u}}hler, Michael Griffin, and Andrew~T.
+  Bond.
+\newblock {Gene co-expression network topology provides a framework for
+  molecular characterization of cellular state}.
+\newblock {\em Bioinformatics}, 20(14):2242--2250, 2004.
+
+\bibitem{Stuart2003}
+Joshua~M. Stuart, Eran Segal, Daphne Koller, and Stuart~K. Kim.
+\newblock {A gene-coexpression network for global discovery of conserved
+  genetic modules}.
+\newblock {\em Science}, 2003.
 
 \end{thebibliography}

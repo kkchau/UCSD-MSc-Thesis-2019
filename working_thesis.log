@@ -1,15 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 MAR 2019 20:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 MAR 2019 23:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.tex
-(/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.tex
+**working_thesis.tex
+(./working_thesis.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/Users/kkhaichau/Documents/GitHub/masters-thesis/ucsd.cls
-Document Class: ucsd 2010/06/01 V3.7 University of California, San Diego, Dissertation Class
-(/Users/kkhaichau/Documents/GitHub/masters-thesis/uct12.clo)
+(./ucsd.cls
+Document Class: ucsd 2010/06/01 V3.7 University of California, San Diego, Disse
+rtation Class
+(./uct12.clo)
 \descriptionmargin=\dimen102
 \c@part=\count80
 \c@chapter=\count81
@@ -29,18 +30,27 @@ Document Class: ucsd 2010/06/01 V3.7 University of California, San Diego, Disser
 \@tablelength=\skip49
 \c@figure=\count87
 \c@table=\count88
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrextend.sty
-Package: scrextend 2018/03/30 v3.25 KOMA-Script package (extend other classes with features of KOMA-Script classes)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2018/03/30 v3.25 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
-)))) (/usr/local/texlive/2018/texmf-dist/tex/latex/pslatex/pslatex.sty
+))))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pslatex/pslatex.sty
 Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -74,26 +84,34 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen105
@@ -113,7 +131,10 @@ Package caption Warning: Unsupported document class (or package) detected,
 (caption)                usage of the caption package is not recommended.
 See the caption package documentation for explanation.
 
-Package caption Info: \@makecaption = \long macro:#1#2->\par \ifdim \prevdepth >-\p@ \vskip 10\p@ \relax \fi \setbox \@tempboxa \hbox {\vbox to\topskip {}#1: #2\unskip \strut }\ifdim \wd \@tempboxa >\hsize {\ssp #1: #2\unskip \strut \par } \else \hbox to\hsize {\hfil \unhbox \@tempboxa \hfil }\fi .
+Package caption Info: \@makecaption = \long macro:#1#2->\par \ifdim \prevdepth 
+>-\p@ \vskip 10\p@ \relax \fi \setbox \@tempboxa \hbox {\vbox to\topskip {}#1: 
+#2\unskip \strut }\ifdim \wd \@tempboxa >\hsize {\ssp #1: #2\unskip \strut \par
+ } \else \hbox to\hsize {\hfil \unhbox \@tempboxa \hfil }\fi .
 \c@ContinuedFloat=\count89
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
@@ -123,22 +144,28 @@ LaTeX Info: Redefining \textls on input line 793.
 \MT@outer@kern=\dimen112
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
 \MT@listname@count=\count91
- (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+
 LaTeX Info: Redefining \lsstyle on input line 913.
 LaTeX Info: Redefining \lslig on input line 913.
 \MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/mdwtools/footnote.sty
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box26
 \fn@width=\dimen113
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
- (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count92
@@ -146,7 +173,8 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip54
 \rot@float@box=\box27
 \rot@mess@toks=\toks16
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \col@sep=\dimen114
 \ar@mcellbox=\box28
@@ -155,7 +183,8 @@ Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \extratabsurround=\skip55
 \backup@length=\skip56
 \ar@cellbox=\box29
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen116
 \lightrulewidth=\dimen117
@@ -174,7 +203,10 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@thisruleclass=\count95
 \@lastruleclass=\count96
 \@thisrulewidth=\dimen128
-) (/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.aux (/Users/kkhaichau/Documents/GitHub/masters-thesis/thesis_frontmatter.aux) (/Users/kkhaichau/Documents/GitHub/masters-thesis/chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.aux) (/Users/kkhaichau/Documents/GitHub/masters-thesis/chapters/SingleCellRNASeq.aux))
+)
+(./working_thesis.aux (./thesis_frontmatter.aux)
+(./chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.aux)
+(./chapters/SingleCellRNASeq.aux))
 \openout1 = `working_thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 195.
@@ -184,8 +216,10 @@ LaTeX Font Info:    ... okay on input line 195.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 195.
 LaTeX Font Info:    ... okay on input line 195.
 LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 195.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 195.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspzccm.fd
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 19
+5.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
 LaTeX Font Info:    ... okay on input line 195.
@@ -193,7 +227,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 195.
 LaTeX Font Info:    ... okay on input line 195.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 195.
 LaTeX Font Info:    ... okay on input line 195.
- (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count97
 \scratchdimen=\dimen129
@@ -208,21 +243,29 @@ LaTeX Font Info:    ... okay on input line 195.
 \everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -230,9 +273,12 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-))) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -240,12 +286,16 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
@@ -260,12 +310,14 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 \openout2 = `thesis_frontmatter.aux'.
 
- (/Users/kkhaichau/Documents/GitHub/masters-thesis/thesis_frontmatter.tex
+
+(./thesis_frontmatter.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
 
@@ -276,8 +328,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 [1
 
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 46.
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 46
+.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
@@ -285,12 +339,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ptmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 46.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 46
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 46.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 46
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -298,45 +356,48 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
 \@tempapprovalspace=\skip57
- [3] [4] [5] (/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.toc)
+ [3] [4]
+[5] (./working_thesis.toc)
 \tf@toc=\write3
 \openout3 = `working_thesis.toc'.
 
- [6] (/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.lof)
+ [6] (./working_thesis.lof)
 \tf@lof=\write4
 \openout4 = `working_thesis.lof'.
 
- [7] (/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.lot)
+ [7] (./working_thesis.lot)
 \tf@lot=\write5
 \openout5 = `working_thesis.lot'.
 
  [8] [9] [10] [11])
 \openout2 = `chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.aux'.
 
- (/Users/kkhaichau/Documents/GitHub/masters-thesis/chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.tex
+
+(./chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-) [1
+[1
 
 
 
-] [2]
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+ [2]) [3]
 \openout2 = `chapters/SingleCellRNASeq.aux'.
 
- (/Users/kkhaichau/Documents/GitHub/masters-thesis/chapters/SingleCellRNASeq.tex
+ (./chapters/SingleCellRNASeq.tex
 Chapter 2.
-) [3
+) [4
 
 
 
 ]
 Chapter 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 234.
-<sandiego.jpg, id=51, 642.4pt x 298.11375pt>
+<sandiego.jpg, id=55, 642.4pt x 298.11375pt>
 File: sandiego.jpg Graphic file (type jpg)
 <use sandiego.jpg>
 Package pdftex.def Info: sandiego.jpg  used on input line 241.
@@ -360,33 +421,44 @@ Overfull \hbox (12.30502pt too wide) in paragraph at lines 259--278
  [] 
  []
 
-[4
+[5
 
 
-] [5 </Users/kkhaichau/Documents/GitHub/masters-thesis/sandiego.jpg>]
+] [6 <./sandiego.jpg>]
 Appendix A.
-(/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.bbl [6
+(./working_thesis.bbl [7
 
-]) [7
+]) [8
 
-] (/Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.aux (/Users/kkhaichau/Documents/GitHub/masters-thesis/thesis_frontmatter.aux) (/Users/kkhaichau/Documents/GitHub/masters-thesis/chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.aux) (/Users/kkhaichau/Documents/GitHub/masters-thesis/chapters/SingleCellRNASeq.aux)) )
+] (./working_thesis.aux (./thesis_frontmatter.aux) (./chapters/TranscriptomicAn
+alysisOfHumanNeurodevelopment.aux)
+(./chapters/SingleCellRNASeq.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 127 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5553 strings out of 492649
- 93242 string characters out of 6129622
- 209218 words of memory out of 5000000
- 9228 multiletter control sequences out of 15000+600000
- 41310 words of font info for 134 fonts, out of 8000000 for 9000
+ 5580 strings out of 492649
+ 91536 string characters out of 6129622
+ 209229 words of memory out of 5000000
+ 9235 multiletter control sequences out of 15000+600000
+ 43058 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,10n,46p,659b,3145s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/kkhaichau/Documents/GitHub/masters-thesis/working_thesis.pdf (18 pages, 83100 bytes).
+ 51i,10n,46p,981b,3150s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on working_thesis.pdf (19 pages, 95657 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31238 words of extra memory for PDF output out of 35830 (max. 10000000)
 

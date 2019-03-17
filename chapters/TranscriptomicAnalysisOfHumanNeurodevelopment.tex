@@ -1,13 +1,13 @@
 \chapter{Transcriptomic Analysis of Human Neurodevelopment}
 \section{Background}
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla odio
-sem, bibendum ut, aliquam ac, facilisis id, tellus. Nam posuere pede
-sit amet ipsum. Etiam dolor. In sodales eros quis pede.  Quisque sed
-nulla et ligula vulputate lacinia. In venenatis, ligula id semper
-feugiat, ligula odio adipiscing libero, eget mollis nunc erat id orci.
-Nullam ante dolor, rutrum eget, vestibulum euismod, pulvinar at, nibh.
-In sapien. Quisque ut arcu. Suspendisse potenti. Cras consequat cursus
-nulla.
+Alternative splicing is the process by which the exons of a single gene may be differentially included or excluded in distinct mRNA transcripts to give rise to a plurality of distinct products. It is well known that much of the diversity in eukaryotic biology can be attributed to this alternative splicing of mRNA transcripts, and studies of high-throughput sequencing have shown 95-100\% of human pre-mRNAs encompassing more than a single exon are processed to yield multiple mature mRNAs \cite{Pan2008, Wang2008}. The differential regulation and production of alternatively spliced mRNA transcripts can also be dictated by spatial or temporal cues, such as tissue specificity or developmental periods, respectively \cite{Nilsen2010, Porter2018}, with the brain exhibiting higher numbers of alternative splicing events relative to other tissues\cite{Pan2008, Yeo2004, Xu2002}.\par
+While the specific functions of individual alternatively spliced isoforms are largely unexplored, these may be inferred through the use of isoform co-expression networks under the idea that, although co-regulation of a pair of isoforms may not necessarily imply that they are related, large sets of isoforms that are co-expressed in a similar manner are likely to be enriched in a central function \cite{Carter2004, Stuart2003}. 
 \section{Results}
 \section{Materials and Methods}
+All analyses were performed using R version $\geq$ 3.5.1. False discovery rate (FDR) adjustment was used to correct for multiple hypothesis testing with a significance threshold of 0.05.
+\subsection{Pre-processing of RNA-Seq data}
+We downloaded RNA-Seq quantification data from the BrainSpan Atlas of the Developing Human Brian [CITATION]. This resource consists of both gene-level and isoform-level counts and TPM matrices, with samples derived from post-mortem brain tissue from 57 donors aged between 8 weeks post-conception through 40 years, across a number of different brain regions, for a total of 606 initial samples. These matrices were filtered by applying a filter of TPM $\geq$ 0.1 in at least 25\% of samples in both data sets; we further restricted the data to only include genes with at least one retained isoform per the isoform-level filter and vice-versa.
+\subsection{Normalization and differential expression analysis}
+To normalize the isoform counts data for between-sample comparability, we first performed surrogate variable analysis to detect latent batch effects [CITATION], relying on evidence from a combination of principal components analysis, relative log expression and p-value distribution visualizations to determine the number of surrogate variables that minimizes latent batch effects while avoiding the problem of overfitting (see figure []). Here, we proposed to use 11 surrogate variables for downstream analysis\par
+Differential expression analysis of normalized isoform counts data was performed using the \textit{limma} R package.
 \section{Discussion}

@@ -4,46 +4,46 @@ The top-level auxiliary file: working_thesis.aux
 A level-1 auxiliary file: thesis_frontmatter.aux
 A level-1 auxiliary file: chapters/TranscriptomicAnalysisOfHumanNeurodevelopment.aux
 A level-1 auxiliary file: chapters/SingleCellRNASeq.aux
-The style file: alpha.bst
-Database file #1: template.bib
-You've used 2 entries,
-            2543 wiz_defined-function locations,
-            575 strings with 4882 characters,
-and the built_in function-call counts, 712 in all, are:
-= -- 67
-> -- 27
-< -- 1
-+ -- 9
-- -- 8
-* -- 48
-:= -- 127
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 10
-chr.to.int$ -- 2
-cite$ -- 2
-duplicate$ -- 30
-empty$ -- 56
-format.name$ -- 11
-if$ -- 140
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 3
-newline$ -- 13
-num.names$ -- 6
-pop$ -- 12
+The style file: unsrt.bst
+Database file #1: references/test_ref.bib
+You've used 8 entries,
+            1791 wiz_defined-function locations,
+            513 strings with 5303 characters,
+and the built_in function-call counts, 1953 in all, are:
+= -- 162
+> -- 111
+< -- 0
++ -- 40
+- -- 32
+* -- 165
+:= -- 327
+add.period$ -- 23
+call.type$ -- 8
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 67
+empty$ -- 179
+format.name$ -- 32
+if$ -- 409
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 7
+newline$ -- 42
+num.names$ -- 8
+pop$ -- 16
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 0
 quote$ -- 0
-skip$ -- 23
+skip$ -- 26
 stack$ -- 0
-substring$ -- 40
-swap$ -- 2
-text.length$ -- 1
-text.prefix$ -- 1
+substring$ -- 152
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 0
 warning$ -- 0
-while$ -- 7
-width$ -- 4
-write$ -- 27
+while$ -- 19
+width$ -- 9
+write$ -- 86
