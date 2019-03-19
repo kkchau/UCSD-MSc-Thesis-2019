@@ -13,13 +13,14 @@
 \contentsline {section}{\numberline {1.3}Materials and Methods}{2}
 \contentsline {subsection}{\numberline {1.3.1}Pre-processing of RNA-Seq data}{2}
 \contentsline {subsection}{\numberline {1.3.2}Normalization and differential expression analysis}{2}
-\contentsline {section}{\numberline {1.4}Discussion}{3}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2}Single-Cell RNA-Seq of Mouse Models}{4}
-\contentsline {section}{\numberline {2.1}16p11.2}{4}
-\contentsline {section}{\numberline {2.2}Cul3 Knockout Mice}{4}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3}Just a Test}{5}
-\contentsline {section}{\numberline {3.1}A section}{5}
-\contentsline {subsection}{\numberline {3.1.1}A Figure Example}{5}
-\contentsline {subsection}{\numberline {3.1.2}A Table Example}{6}
-\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Final notes}{7}
-\contentsline {backmatter}{Bibliography}{8}
+\contentsline {subsection}{\numberline {1.3.3}Weighted co-expression network analysis}{3}
+\contentsline {section}{\numberline {1.4}Discussion}{4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2}Single-Cell RNA-Seq of Mouse Models}{5}
+\contentsline {section}{\numberline {2.1}16p11.2}{5}
+\contentsline {section}{\numberline {2.2}Cul3 Knockout Mice}{5}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3}Just a Test}{6}
+\contentsline {section}{\numberline {3.1}A section}{6}
+\contentsline {subsection}{\numberline {3.1.1}A Figure Example}{6}
+\contentsline {subsection}{\numberline {3.1.2}A Table Example}{7}
+\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Final notes}{8}
+\contentsline {backmatter}{Bibliography}{9}
