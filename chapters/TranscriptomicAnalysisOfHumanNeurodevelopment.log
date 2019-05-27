@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  25 MAR 2019 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  21 MAY 2019 12:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **TranscriptomicAnalysisOfHumanNeurodevelopment.tex
 (./TranscriptomicAnalysisOfHumanNeurodevelopment.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2018-12-01>
 ./TranscriptomicAnalysisOfHumanNeurodevelopment.tex:1: Undefined control sequen
 ce.
 l.1 \chapter
@@ -20,10 +19,10 @@ End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 5 strings out of 492649
- 279 string characters out of 6129622
- 56400 words of memory out of 5000000
- 3988 multiletter control sequences out of 15000+600000
+ 5 strings out of 492616
+ 279 string characters out of 6129482
+ 57124 words of memory out of 5000000
+ 4025 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  5i,0n,1p,171b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
