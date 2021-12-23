@@ -276,7 +276,7 @@
     % or
     %
     % 1 Title of Chapter
-    \ifnum \@chapterheadsmark = 1 
+    \ifnum \@chapterheadsmark = -1 
       \Huge\bfseries \@chapapp{} \thechapter
       \par
       \vskip 20\p@
@@ -394,7 +394,7 @@
 % highest-level sectioning command that is to produce section numbers.
 %
  
-\setcounter{secnumdepth}{2}
+\setcounter{secnumdepth}{0}
  
 % APPENDIX
 %

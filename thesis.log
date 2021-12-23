@@ -1,0 +1,1073 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.22)  22 DEC 2021 23:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (ucsd.cls
+Document Class: ucsd 2010/06/01 V3.7 University of California, San Diego, Disse
+rtation Class
+(uct12.clo)
+\descriptionmargin=\dimen138
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\@chapterlength=\skip47
+\UCSD@toc@frontmatterLength=\skip48
+\UCSD@toc@backmatterLength=\skip49
+\@subsectionlength=\skip50
+\@subsubsectionlength=\skip51
+\@paragraphlength=\skip52
+\@subparagraphlength=\skip53
+\@figurelength=\skip54
+\@suppfigurelength=\skip55
+\@supptablelength=\skip56
+\@tablelength=\skip57
+\c@figure=\count190
+\c@suppfigure=\count191
+\c@table=\count192
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
+oma-script/scrextend.sty
+Package: scrextend 2021/11/13 v3.35 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
+oma-script/scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
+oma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
+oma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
+oma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
+oma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+Package scrextend Info: You've used standard option `final'.
+(scrextend)             This is correct!
+(scrextend)             Internally I'm using `draft=false'.
+(scrextend)             If you'd like to set the option with \KOMAoptions,
+(scrextend)             you'd have to use `draft=false' there
+(scrextend)             instead of `final', too.
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/p
+slatex/pslatex.sty
+Package: pslatex 2021/01/13 v1.3 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 76.
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/s
+etspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/c
+aption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/c
+aption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+\abovecaptionskip=\skip58
+\belowcaptionskip=\skip59
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\par \ifdim \prevdepth 
+>-\p@ \vskip 10\p@ \relax \fi \setbox \@tempboxa \hbox {\vbox to\topskip {}#1: 
+#2\unskip \strut }\ifdim \wd \@tempboxa >\hsize {\ssp #1: #2\unskip \strut \par
+ } \else \hbox to\hsize {\hfil \unhbox \@tempboxa \hfil }\fi  on input line 113
+9.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/m
+icrotype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/e
+toolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+\MT@toks=\toks17
+\MT@count=\count196
+\MT@tempbox=\box50
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen148
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count197
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/m
+icrotype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip60
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/m
+icrotype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/m
+dwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box51
+\fn@width=\dimen149
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
+raphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
+ase/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count198
+\rotFPtop=\skip61
+\rotFPbot=\skip62
+\rot@float@box=\box52
+\rot@mess@toks=\toks18
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/t
+ools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box53
+\extrarowheight=\dimen151
+\NC@list=\toks19
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box54
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
+ooktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count199
+\@cmidlb=\count266
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count267
+\@lastruleclass=\count268
+\@thisrulewidth=\dimen164
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/c
+hngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l
+3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box55
+) (thesis.aux (thesis_frontmatter.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 80.
+LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
+ 80.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/p
+snfss/omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/context
+/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen165
+\scratchbox=\box56
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen166
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks21
+)
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/e
+pstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/0
+0miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 80.
+Package microtype Info: Applying patch `item' on input line 80.
+Package microtype Info: Applying patch `toc' on input line 80.
+Package microtype Info: Applying patch `eqnum' on input line 80.
+Package microtype Info: Applying patch `footnote' on input line 80.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 80.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/m
+icrotype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\openout2 = `thesis_frontmatter.aux'.
+
+ (thesis_frontmatter.tex
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+
+ []
+
+[1
+
+
+{/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdft
+ex/pdftex.map}] [2]
+LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line
+ 29.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/p
+snfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ptmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line
+ 29.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/p
+snfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+psycm on input line
+ 29.
+
+(/Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install/tex/latex/p
+snfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+\@tempapprovalspace=\skip65
+ [3] (thesis.toc
+Overfull \hbox (2.48506pt too wide) in paragraph at lines 14--14
+ [][] \OT1/ptm/m/n/12 (-20) LoF-impacted co-expression modules point to dysregu
+lation of RNA splicing 
+ []
+
+[4])
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [5] (thesis.lof
+Overfull \hbox (25.42708pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/ptm/m/n/12 (-20) Gene and isoform co-expression modules reflect di
+stinct signals in neurodevelopment. []  
+ []
+
+
+Overfull \hbox (25.42708pt too wide) in paragraph at lines 9--9
+ [][] []\OT1/ptm/m/n/12 (-20) Gene and isoform co-expression modules reflect di
+stinct signals in neurodevelopment. []  
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [6] (thesis.lsf
+Overfull \hbox (18.54146pt too wide) in paragraph at lines 2--2
+ [][] []\OT1/ptm/m/n/12 (-20) Principal components analysis of transformed gene
+ quantifications. []  
+ []
+
+
+Overfull \hbox (32.92361pt too wide) in paragraph at lines 3--3
+ [][] []\OT1/ptm/m/n/12 (-20) Principal components analysis of transformed isof
+orm quantifications. []  
+ []
+
+
+Overfull \hbox (25.38297pt too wide) in paragraph at lines 4--4
+ [][] []\OT1/ptm/m/n/12 (-20) Relative log expression analysis of transformed g
+ene quantifications. []  
+ []
+
+)
+\tf@lsf=\write5
+\openout5 = `thesis.lsf'.
+
+ [7] (thesis.lot
+Overfull \hbox (15.02948pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]02[]supplementary[]table[]2.xlsx, Full gene
+-level differential 
+ []
+
+
+Overfull \hbox (29.41164pt too wide) in paragraph at lines 9--9
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]03[]supplementary[]table[]3.xlsx, Full isof
+orm-level differential 
+ []
+
+
+Overfull \hbox (15.15724pt too wide) in paragraph at lines 11--11
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]05[]supplementary[]table[]5.xlsx, Gene onto
+logy enrichment 
+ []
+
+
+Overfull \hbox (15.15724pt too wide) in paragraph at lines 12--12
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]06[]supplementary[]table[]6.xlsx, Gene onto
+logy enrichment 
+ []
+
+
+Overfull \hbox (3.69539pt too wide) in paragraph at lines 12--12
+ \OT1/ptm/m/n/12 (-20) analysis results for isoform-level differential expressi
+on analysis. []  
+ []
+
+
+Overfull \hbox (4.71436pt too wide) in paragraph at lines 13--13
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]07[]supplementary[]table[]7.xlsx, Compiled 
+and annotated 
+ []
+
+
+Overfull \hbox (20.84547pt too wide) in paragraph at lines 14--14
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]08[]supplementary[]table[]8.xlsx, Gene co-e
+xpression module 
+ []
+
+
+Overfull \hbox (21.03725pt too wide) in paragraph at lines 16--16
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]10[]supplementary[]table[]10.xlsx, Gene ont
+ology enrichment 
+ []
+
+
+Overfull \hbox (21.03725pt too wide) in paragraph at lines 17--17
+ [][] []\OT1/ptm/m/n/12 (-20) chau[]11[]supplementary[]table[]11.xlsx, Gene ont
+ology enrichment 
+ []
+
+)
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
+
+ [8] [9] [10] [11])
+Chapter 1.
+
+LaTeX Warning: Citation `Wang2008' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Pan2008' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Steijger2013' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Trapnell2010' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Barbosa-Morais2012' on page 1 undefined on input line 
+103.
+
+
+LaTeX Warning: Citation `Sapkota2019' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Shalek2013' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Kalsotra2011' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Yeo2004' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Calarco2011' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Mele2015' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Raj2015' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Li2007' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Kim2013' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Grabowski2011' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Parikshak2016' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Gandal2018' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Li2018' on page 1 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Parikshak2013' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `Willsey2013' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `Lin2015' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `Li2018' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `Satterstrom2019' on page 1 undefined on input line 104
+.
+
+
+LaTeX Warning: Citation `Yang2016' on page 1 undefined on input line 105.
+
+
+LaTeX Warning: Citation `Corominas2014' on page 1 undefined on input line 105.
+
+[1
+
+
+
+]
+
+LaTeX Warning: Citation `Kang2011' on page 2 undefined on input line 106.
+
+
+LaTeX Warning: Citation `Gandal2018' on page 2 undefined on input line 106.
+
+
+Overfull \hbox (0.94968pt too wide) in paragraph at lines 106--106
+[]\OT1/ptm/m/n/12 (-20) To better understand how NDD risk mutations dysregulate
+ neurodevelopment, we construct
+ []
+
+[2]
+Chapter 2.
+
+LaTeX Warning: Citation `Kang2011' on page 3 undefined on input line 111.
+
+
+LaTeX Warning: Citation `Gandal2018' on page 3 undefined on input line 111.
+
+
+LaTeX Warning: Citation `Gandal2018' on page 3 undefined on input line 115.
+
+[3
+
+]
+
+LaTeX Warning: Citation `Satterstrom2019' on page 4 undefined on input line 118
+.
+
+
+LaTeX Warning: Citation `Lin2015' on page 4 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Parikshak2013' on page 4 undefined on input line 118.
+
+[4]
+
+LaTeX Warning: Citation `Satterstrom2019' on page 5 undefined on input line 122
+.
+
+[5]
+
+LaTeX Warning: Citation `Irimia2014' on page 6 undefined on input line 124.
+
+
+LaTeX Warning: Citation `Li2015' on page 6 undefined on input line 124.
+
+[6]
+
+LaTeX Warning: Citation `Langfelder2008' on page 7 undefined on input line 127.
+
+
+[7]
+
+LaTeX Warning: Citation `DeRubeis2014' on page 8 undefined on input line 132.
+
+[8]
+
+LaTeX Warning: Citation `Satterstrom2019' on page 9 undefined on input line 135
+.
+
+
+LaTeX Warning: Citation `Parikshak2016' on page 9 undefined on input line 135.
+
+
+LaTeX Warning: Citation `Gandal2018' on page 9 undefined on input line 135.
+
+
+LaTeX Warning: Citation `Pinto2014' on page 9 undefined on input line 135.
+
+
+LaTeX Warning: Citation `Iakoucheva2019' on page 9 undefined on input line 135.
+
+
+[9]
+
+LaTeX Warning: Citation `Fromer2014' on page 10 undefined on input line 139.
+
+
+LaTeX Warning: Citation `ORoak2012' on page 10 undefined on input line 139.
+
+
+LaTeX Warning: Citation `Fromer2014' on page 10 undefined on input line 139.
+
+
+LaTeX Warning: Citation `Xu2011' on page 10 undefined on input line 139.
+
+[10]
+Overfull \hbox (19.59369pt too wide) in paragraph at lines 142--142
+[]\OT1/ptm/b/n/17.28 (-20) The splice site mutation in \OT1/ptm/b/it/17.28 (-20
+) BTRC \OT1/ptm/b/n/17.28 (-20) reduces its translational efficiency 
+ []
+
+
+LaTeX Warning: Citation `Ruzzo2019' on page 11 undefined on input line 143.
+
+
+LaTeX Warning: Citation `Yang2016' on page 11 undefined on input line 143.
+
+
+LaTeX Warning: Citation `DeRubeis2014' on page 11 undefined on input line 143.
+
+
+LaTeX Warning: Citation `Diem2007' on page 11 undefined on input line 143.
+
+[11]
+
+LaTeX Warning: Citation `Winston1999' on page 12 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Ciani2005' on page 12 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Kwan2016' on page 12 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Iakoucheva2019' on page 12 undefined on input line 144
+.
+
+
+LaTeX Warning: Citation `Satterstrom2019' on page 12 undefined on input line 14
+4.
+
+[12]
+
+LaTeX Warning: Citation `Winston1999' on page 13 undefined on input line 145.
+
+[13]
+Chapter 3.
+
+LaTeX Warning: Citation `Mele2015' on page 14 undefined on input line 148.
+
+
+LaTeX Warning: Citation `Raj2015' on page 14 undefined on input line 148.
+
+
+LaTeX Warning: Citation `Corominas2014' on page 14 undefined on input line 149.
+
+
+
+LaTeX Warning: Citation `Irimia2014' on page 14 undefined on input line 149.
+
+
+LaTeX Warning: Citation `Yang2016' on page 14 undefined on input line 149.
+
+
+Overfull \hbox (8.44081pt too wide) in paragraph at lines 150--150
+[]\OT1/ptm/m/n/12 (-20) We first observed distinct forms of dysregulation acros
+s neurodevelopment when considering
+ []
+
+[14
+
+]
+
+LaTeX Warning: Citation `Golubkov2010' on page 15 undefined on input line 151.
+
+
+LaTeX Warning: Citation `Shin2008' on page 15 undefined on input line 151.
+
+[15]
+
+LaTeX Warning: Citation `Gandal2018' on page 16 undefined on input line 153.
+
+
+LaTeX Warning: Citation `Nag2002' on page 16 undefined on input line 153.
+
+
+LaTeX Warning: Citation `Obermeier2013' on page 16 undefined on input line 153.
+
+
+
+LaTeX Warning: Citation `Saunders2012' on page 16 undefined on input line 153.
+
+
+LaTeX Warning: Citation `Watson2016' on page 16 undefined on input line 153.
+
+
+LaTeX Warning: Citation `Zobel2016' on page 16 undefined on input line 153.
+
+[16]
+
+LaTeX Warning: Citation `Chenn2002' on page 17 undefined on input line 155.
+
+[17] [18]
+Chapter 4.
+
+LaTeX Warning: Citation `Hawrylycz2012' on page 19 undefined on input line 165.
+
+
+
+LaTeX Warning: Citation `Kang2011' on page 19 undefined on input line 165.
+
+
+LaTeX Warning: Citation `Miller2014' on page 19 undefined on input line 165.
+
+
+LaTeX Warning: Citation `Gandal2018' on page 19 undefined on input line 165.
+
+
+LaTeX Warning: Citation `Dobin2013' on page 19 undefined on input line 165.
+
+
+LaTeX Warning: Citation `Li2014' on page 19 undefined on input line 165.
+
+
+LaTeX Warning: Citation `Oldham2012' on page 19 undefined on input line 166.
+
+
+LaTeX Warning: Citation `Leek2014' on page 19 undefined on input line 167.
+
+
+LaTeX Warning: Citation `Leek2007' on page 19 undefined on input line 167.
+
+[19
+
+] [20]
+
+LaTeX Warning: Citation `Ritchie2015' on page 21 undefined on input line 174.
+
+
+LaTeX Warning: Citation `Ritchie2015' on page 21 undefined on input line 174.
+
+
+LaTeX Warning: Citation `Samocha2014' on page 21 undefined on input line 177.
+
+
+LaTeX Warning: Citation `Darnell2011' on page 21 undefined on input line 177.
+
+
+LaTeX Warning: Citation `Satterstrom2019' on page 21 undefined on input line 17
+7.
+
+
+LaTeX Warning: Citation `Wilkinson2015' on page 21 undefined on input line 177.
+
+
+
+LaTeX Warning: Citation `Pirooznia2012' on page 21 undefined on input line 177.
+
+
+
+LaTeX Warning: Citation `Lek2016' on page 21 undefined on input line 177.
+
+
+LaTeX Warning: Citation `Wang2018' on page 21 undefined on input line 177.
+
+
+LaTeX Warning: Citation `Zhong2018' on page 21 undefined on input line 177.
+
+[21]
+
+LaTeX Warning: Citation `Raudvere2019' on page 22 undefined on input line 180.
+
+
+LaTeX Warning: Citation `Satterstrom2019' on page 22 undefined on input line 18
+3.
+
+
+LaTeX Warning: Citation `McLaren2016' on page 22 undefined on input line 183.
+
+
+LaTeX Warning: Citation `Langfelder2008' on page 22 undefined on input line 186
+.
+
+[22]
+
+LaTeX Warning: Citation `Yang2016' on page 23 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Huttlin2015' on page 23 undefined on input line 195.
+
+
+LaTeX Warning: Citation `KeshavaPrasad2009' on page 23 undefined on input line 
+195.
+
+
+LaTeX Warning: Citation `Lage2007' on page 23 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Das2012' on page 23 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Chatr-Aryamontri2017' on page 23 undefined on input li
+ne 195.
+
+
+LaTeX Warning: Citation `Zuberi2013' on page 23 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Szklarczyk2017' on page 23 undefined on input line 195
+.
+
+
+LaTeX Warning: Citation `Ruepp2009' on page 23 undefined on input line 195.
+
+[23]
+
+LaTeX Warning: Citation `Kishore2008' on page 24 undefined on input line 199.
+
+
+Overfull \hbox (21.71548pt too wide) in paragraph at lines 200--201
+\OT1/ptm/m/n/12 (-20) GGAAGCTATGTTTAGCCAGGATACATTTGG, Rv: CCAGATGATGTCCCCTCCCTA
+CATAGTCC;
+ []
+
+
+Overfull \hbox (65.04066pt too wide) in paragraph at lines 200--201
+\OT1/ptm/m/n/12 (-20) (2) \OT1/ptm/m/it/12 (-20) DYRK1A\OT1/ptm/m/n/12 (-20) : 
+Fw: GTTGGGAAAATTTCCCCCTATTTAAGC, Rv: CCCAGAGGCTTAATAAAGTATGGACC;
+ []
+
+
+Overfull \hbox (73.85767pt too wide) in paragraph at lines 200--201
+\OT1/ptm/m/n/12 (-20) (3) \OT1/ptm/m/it/12 (-20) CELF2\OT1/ptm/m/n/12 (-20) : F
+w: GGAGTTGGAATGACAGACGTTCACATGC, Rv: CCGCTGTGGGCTGAGGATCAGTTTCC;
+ []
+
+
+Overfull \hbox (6.35793pt too wide) in paragraph at lines 200--201
+\OT1/ptm/m/n/12 (-20) (5) \OT1/ptm/m/it/12 (-20) BTRC\OT1/ptm/m/n/12 (-20) : Fw
+: GGGCCTCAGAATGACACAGTACG, Rv: GAACTTGCGTTTCTTGTTTTTGCC.
+ []
+
+
+Overfull \hbox (11.59137pt too wide) in paragraph at lines 200--201
+\OT1/ptm/m/n/12 (-20) and purified using the QIAquick Gel Extraction Kit (QIAGE
+N) following manufacturer's instructions.
+ []
+
+[24] [25] [26]
+Appendix A.
+<figure1.png, id=127, 341.5962pt x 341.8371pt>
+File: figure1.png Graphic file (type png)
+<use figure1.png>
+Package pdftex.def Info: figure1.png  used on input line 211.
+(pdftex.def)             Requested size: 458.91493pt x 459.23813pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figure2.png, id=129, 338.2236pt x 304.4976pt>
+File: figure2.png Graphic file (type png)
+<use figure2.png>
+Package pdftex.def Info: figure2.png  used on input line 218.
+(pdftex.def)             Requested size: 458.91493pt x 413.15877pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 220.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 220.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 220.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figure3.png, id=130, 343.2825pt x 683.9151pt>
+File: figure3.png Graphic file (type png)
+<use figure3.png>
+Package pdftex.def Info: figure3.png  used on input line 230.
+(pdftex.def)             Requested size: 298.2919pt x 594.28127pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figure4.png, id=131, 341.8371pt x 518.1759pt>
+File: figure4.png Graphic file (type png)
+<use figure4.png>
+Package pdftex.def Info: figure4.png  used on input line 235.
+(pdftex.def)             Requested size: 344.18619pt x 521.77217pt.
+
+LaTeX Warning: Float too large for page by 2.75426pt on input line 238.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figure5.png, id=132, 340.6326pt x 370.5042pt>
+File: figure5.png Graphic file (type png)
+<use figure5.png>
+Package pdftex.def Info: figure5.png  used on input line 247.
+(pdftex.def)             Requested size: 458.91493pt x 499.16406pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27
+
+] [28 <./figure1.png>] [29 <./figure2.png>] [30] [31 <./figure3.png>]
+[32 <./figure4.png>] [33] [34 <./figure5.png>]
+Appendix B.
+[35
+
+]
+<suppfigure1.png, id=168, 343.5234pt x 227.4096pt>
+File: suppfigure1.png Graphic file (type png)
+<use suppfigure1.png>
+Package pdftex.def Info: suppfigure1.png  used on input line 255.
+(pdftex.def)             Requested size: 458.91493pt x 303.81467pt.
+<suppfigure2.png, id=169, 1156.32pt x 867.24pt>
+File: suppfigure2.png Graphic file (type png)
+<use suppfigure2.png>
+Package pdftex.def Info: suppfigure2.png  used on input line 262.
+(pdftex.def)             Requested size: 458.91493pt x 344.1771pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<suppfigure3.png, id=170, 1156.32pt x 867.24pt>
+File: suppfigure3.png Graphic file (type png)
+<use suppfigure3.png>
+Package pdftex.def Info: suppfigure3.png  used on input line 269.
+(pdftex.def)             Requested size: 458.91493pt x 344.1771pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<suppfigure4.pdf, id=171, 1156.32pt x 867.24pt>
+File: suppfigure4.pdf Graphic file (type pdf)
+<use suppfigure4.pdf>
+Package pdftex.def Info: suppfigure4.pdf  used on input line 276.
+(pdftex.def)             Requested size: 458.91493pt x 344.1771pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<suppfigure5.pdf, id=172, 1156.32pt x 867.24pt>
+File: suppfigure5.pdf Graphic file (type pdf)
+<use suppfigure5.pdf>
+Package pdftex.def Info: suppfigure5.pdf  used on input line 283.
+(pdftex.def)             Requested size: 458.91493pt x 344.1771pt.
+
+Underfull \hbox (badness 1635) in paragraph at lines 285--285
+[]\OT1/ptm/b/n/10.95 (+20) Supplementary Figure 5\OT1/ptm/m/n/10.95 (+20) : |Re
+lative log expression analysis of transformed isoform
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<suppfigure6.png, id=173, 337.5009pt x 149.358pt>
+File: suppfigure6.png Graphic file (type png)
+<use suppfigure6.png>
+Package pdftex.def Info: suppfigure6.png  used on input line 290.
+(pdftex.def)             Requested size: 458.91493pt x 203.0877pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36
+
+ <./suppfigure1.png>] [37 <./suppfigure2.png>] [38 <./suppfigure3.png>]
+[39 <./suppfigure4.pdf>] [40 <./suppfigure5.pdf>] [41 <./suppfigure6.png>]
+No file thesis.bbl.
+[42
+
+] [43
+
+] [44] (thesis.aux (thesis_frontmatter.aux))
+
+LaTeX Warning: There were undefined references.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 55 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 6812 strings out of 480594
+ 121699 string characters out of 2895191
+ 477919 words of memory out of 3000000
+ 24188 multiletter control sequences out of 15000+600000
+ 459242 words of font info for 348 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 108i,8n,106p,2701b,3769s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/da
+ta/fonts/pk/ljfour/public/cm/dpi657/cmmi10.pk> </Users/kkhaichau/Library/Applic
+ation Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi657/cmsy10.pk> </
+Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/
+public/cm/dpi540/cmsy10.pk>{/Users/kkhaichau/Library/Application Support/MiKTeX
+/texmfs/install/fonts/enc/dvips/base/8r.enc} </Users/kkhaichau/Library/Applicat
+ion Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi720/cmsy10.pk> </Us
+ers/kkhaichau/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/pu
+blic/cm/dpi720/cmmi10.pk></Users/kkhaichau/Library/Application Support/MiKTeX/t
+exmfs/install/fonts/type1/urw/symbol/usyr.pfb></Users/kkhaichau/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/kkh
+aichau/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/
+utmbi8a.pfb></Users/kkhaichau/Library/Application Support/MiKTeX/texmfs/install
+/fonts/type1/urw/times/utmr8a.pfb></Users/kkhaichau/Library/Application Support
+/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (55 pages, 4606940 bytes).
+PDF statistics:
+ 266 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66616 words of extra memory for PDF output out of 74296 (max. 10000000)
+

@@ -1,0 +1,32 @@
+\contentsline {frontmatter}{\numberline {}Signature Page}{iii}{}%
+\contentsline {frontmatter}{\numberline {}Table of Contents}{iv}{}%
+\contentsline {frontmatter}{\numberline {}List of Figures}{vi}{}%
+\contentsline {frontmatter}{\numberline {}List of Supplementary Figures}{vii}{}%
+\contentsline {frontmatter}{\numberline {}List of Supplementary Files}{viii}{}%
+\contentsline {frontmatter}{\numberline {}Acknowledgements}{ix}{}%
+\contentsline {frontmatter}{\numberline {}Abstract of the Thesis}{x}{}%
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}1}Introduction}{1}{}%
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2}Results}{3}{}%
+\contentsline {section}{Construction and validation of isoform transcriptome of the developing human brain}{3}{}%
+\contentsline {section}{Differential isoform expression reveals distinct signals relative to differential gene expression}{4}{}%
+\contentsline {section}{Differentially expressed isoforms impacted by autism loss-of-function mutations have higher prenatal expression }{5}{}%
+\contentsline {section}{Isoform co-expression modules capture trajectories of brain development}{7}{}%
+\contentsline {section}{LoF-impacted co-expression modules point to dysregulation of RNA splicing and synaptic organization}{9}{}%
+\contentsline {section}{De novo splice site mutations of NDD risk genes cause exon skipping, partial intron retention, or have no effect on isoforms}{10}{}%
+\contentsline {section}{The splice site mutation in \textit {BTRC} reduces its translational efficiency}{11}{}%
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3}Discussion}{14}{}%
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}4}Materials and Methods}{19}{}%
+\contentsline {section}{Preprocessing of RNA-Seq data}{19}{}%
+\contentsline {section}{Validation of isoform expression with qPCR}{20}{}%
+\contentsline {section}{Differential expression analysis}{21}{}%
+\contentsline {section}{Cell type and literature curated lists enrichment analyses}{21}{}%
+\contentsline {section}{Gene set enrichment analysis}{22}{}%
+\contentsline {section}{Rare \textit {de novo} ASD loss of function variants}{22}{}%
+\contentsline {section}{Weighted co-expression network construction}{22}{}%
+\contentsline {section}{Co-expression module characterization}{23}{}%
+\contentsline {section}{Co-expression module variant impact analysis}{23}{}%
+\contentsline {section}{Protein-protein interaction network overlay with co-expression modules}{24}{}%
+\contentsline {section}{Minigenes cloning}{24}{}%
+\contentsline {section}{Co-Immunoprecipitation and Western Blot}{25}{}%
+\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Figures}{27}{}%
+\contentsline {chapter}{\numberline {Appendix\nobreakspace {}B}Supplementary Figures}{35}{}%

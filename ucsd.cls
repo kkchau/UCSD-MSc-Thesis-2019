@@ -331,8 +331,12 @@
 \def\listfigurename{List of Figures}
 %                   ~~~~~~~~~~~~~~~
 %
+% \listofsuppfigures:
+\def\listsuppfigurename{List of Supplementary Figures}
+%                   ~~~~~~~~~~~~~~~
+%
 % \listoftables:
-\def\listtablename{List of Tables}
+\def\listtablename{List of Supplementary Files}
 %                  ~~~~~~~~~~~~~~
 %
 % \thebibliography:
@@ -347,8 +351,16 @@
 \def\figurename{Figure}
 %               ~~~~~~
 %
+% supp figure environment:
+\def\suppfigurename{Supplementary Figure}
+%               ~~~~~~
+%
+% supp table environment:
+\def\supptablename{Supplementary Table}
+%               ~~~~~~
+%
 % table environment:
-\def\tablename{Table}
+\def\tablename{Supplementary Table}
 %              ~~~~~
 %
 % \chapter:
@@ -361,8 +373,8 @@
 \def\partname{Part}
 %             ~~~~
 % abstract environment:
-\def\abstractshortname{Abstract of the Dissertation} % Used for TOC
-\def\abstractlongname{Abstract of the Dissertation} % Used for Header
+\def\abstractshortname{Abstract of the Thesis} % Used for TOC
+\def\abstractlongname{Abstract of the Thesis} % Used for Header
 %                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 % dedication:
 \def\dedicationname{Dedication}
@@ -720,12 +732,12 @@ on microfilm and electronically: }}\\
   \vspace{.3in}
   University of California {\@campus}, \@degreeyear \par
   \vspace{.3in}
-  {\UCSD@chair}, \UCSD@text@chair
+  {Professor \UCSD@chair}, \UCSD@text@chair
   %Check if there is a co-chair and add accordingly.
   \ifx\UCSD@cochair\@isnotdefined
   \else
     \par
-    {\UCSD@cochair}, \UCSD@text@cochair
+    {Professor \UCSD@cochair}, \UCSD@text@cochair
   \fi
   \vspace{.3in}
   } % Closes fmfont above
@@ -939,7 +951,7 @@ on microfilm and electronically: }}\\
 
 \newcounter {part}
 \newcounter {chapter}
-\newcounter {section}[chapter]
+\newcounter {section}
 \newcounter {subsection}[section]
 \newcounter {subsubsection}[subsection]
 \newcounter {paragraph}[subsubsection]
@@ -958,9 +970,9 @@ on microfilm and electronically: }}\\
 %                           1 = A, 2 = B, etc.
 %
 
-\def\thepart          {\Roman{part}}
-\def\thechapter       {\arabic{chapter}}
-\def\thesection       {\thechapter.\arabic{section}}
+%\def\thepart          {\Roman{part}}
+%\def\thechapter       {\arabic{chapter}}
+\def\thesection       {\arabic{section}}
 \def\thesubsection    {\thesection.\arabic{subsection}}
 \def\thesubsubsection {\thesubsection .\arabic{subsubsection}}
 \def\theparagraph     {\thesubsubsection.\arabic{paragraph}}
@@ -1132,7 +1144,7 @@ on microfilm and electronically: }}\\
 %   \endgroup}
 
 \newlength{\@chapterlength} % Original Magic Value - RMR
-\setlength{\@chapterlength}{1.5em} % This code adds space for \@chapapp for toc entries
+\setlength{\@chapterlength}{0em} % This code adds space for \@chapapp for toc entries
 \ifnum \@chapterheadsmark = 1
 \settowidth{\@chapterlength}{\@chapapp}
 \addtolength{\@chapterlength}{2.6em} % Space between toc labels and values
@@ -1144,7 +1156,7 @@ on microfilm and electronically: }}\\
 \setlength{\UCSD@toc@frontmatterLength}{0em}
 % Use the following line to have the front matter title aligned with
 % the chapter titles.  Otherwise they will aligned to the left (as required by OGS.)
-%\setlength{\UCSD@toc@frontmatterLength}{0em}
+\setlength{\UCSD@toc@frontmatterLength}{0em}
 \def\l@frontmatter{\normalfont\vskip 1em plus 1pt \@dottedtocline{0}{0em}{\UCSD@toc@frontmatterLength}}
 
 
@@ -1156,7 +1168,7 @@ on microfilm and electronically: }}\\
 \def\l@backmatter{\normalfont\vskip 1em plus 1pt \@dottedtocline{0}{0em}{\UCSD@toc@frontmatterLength}}
 
 
-\def\l@section{\normalfont\@dottedtocline{1}{\@chapterlength}{2.3em}}
+\def\l@section{\normalfont\@dottedtocline{1}{\@chapterlength}{0em}}
 
 \newlength{\@subsectionlength}
 \setlength{\@subsectionlength}{\@chapterlength}
@@ -1205,6 +1217,62 @@ on microfilm and electronically: }}\\
 \addtolength{\@figurelength}{2.8em}
 \def\l@figure{\normalfont\@dottedtocline{1}{0em}{\@figurelength}}
 
+% LIST OF SUPP FIGURES
+%
+% Single-space list of figures, add it to the table of contents.
+\def\listofsuppfigures{%
+  \@restonecolfalse%
+  \if@twocolumn\@restonecoltrue\onecolumn\fi%
+  \newpage%
+  \centerline{\expandafter\uppercase\expandafter{\listsuppfigurename}}%
+  \bigskip%
+  \phantomsection%
+  \addcontentsline{toc}{frontmatter}{\protect\numberline{}\listsuppfigurename }%
+  %This group overloads \numberline to output ``Figure 1.3'' instead of ``1.3''
+  \begingroup%
+    \let\ORIG@numberline\numberline%
+    \renewcommand*{\numberline}[1]{%
+      \ORIG@numberline{\suppfigurename~##1:}}%
+    {\ssp\@starttoc{lsf}}%
+    \if@restonecol\twocolumn\fi%
+  \endgroup %
+  }
+
+\newlength{\@suppfigurelength}
+\settowidth{\@suppfigurelength}{\suppfigurename }
+% Magic value, but consistent with the standard figure length
+\addtolength{\@suppfigurelength}{2.8em}
+\def\l@suppfigure{\normalfont\@dottedtocline{1}{0em}{\@suppfigurelength}}
+
+% LIST OF SUPP Files
+%
+% Single-space list of figures, add it to the table of contents.supptable
+\def\listofsupptables{%
+  \@restonecolfalse%
+  \if@twocolumn\@restonecoltrue\onecolumn\fi%
+  \newpage%
+  \centerline{\expandafter\uppercase\expandafter{\listsupptablename}}%
+  \bigskip%
+  \phantomsection%
+  \addcontentsline{toc}{frontmatter}{\protect\numberline{}\listsupptablename }%
+  %This group overloads \numberline to output ``Figure 1.3'' instead of ``1.3''
+  \begingroup%
+    \let\ORIG@numberline\numberline%
+    \renewcommand*{\numberline}[1]{%
+      \ORIG@numberline{\supptablename~##1:}}%
+    {\ssp\@starttoc{lof}}%
+    \if@restonecol\twocolumn\fi%
+  \endgroup %
+  }
+
+\newlength{\@supptablelength}
+\settowidth{\@supptablelength}{\supptablename }
+% Magic value, but consistent with the standard figure length
+\addtolength{\@supptablelength}{2.8em}
+\def\l@supptable{\normalfont\@dottedtocline{1}{0em}{\@supptablelength}}
+
+
+
 % LIST OF TABLES
 %
 % Single-space list of tables, add it to the table of contents.
@@ -1219,6 +1287,9 @@ on microfilm and electronically: }}\\
   % This group overloads \numberline to output ``Table 1.3'' instead of ``1.3''
   \begingroup%
     \let\ORIG@numberline\numberline%
+    \let\Contentsline\contentsline 
+    \renewcommand\contentsline[3]{\Contentsline{##1}{##2}{}}
+    \renewcommand{\@dotsep}{10000} 
     \renewcommand*{\numberline}[1]{\ORIG@numberline{\tablename~##1:}}%
     {\ssp\@starttoc{lot}}%
     \if@restonecol\twocolumn\fi%
@@ -1230,7 +1301,6 @@ on microfilm and electronically: }}\\
 % Magic value, but consistent with the standard table length.
 \addtolength{\@tablelength}{2.8em}
 \def\l@table{\normalfont\@dottedtocline{1}{0em}{\@tablelength}}
-
 
 %    ****************************************
 %    *             BIBLIOGRAPHY             *
@@ -1459,10 +1529,25 @@ on microfilm and electronically: }}\\
 \@namedef{figure*}{\@dblfloat{figure}}
 \@namedef{endfigure*}{\end@dblfloat}
 
+% SUPPFIGURE
+
+\newcounter{suppfigure}[chapter]
+\def\thesuppfigure{\@arabic\c@suppfigure}
+
+\def\fps@suppfigure{tbp}
+\def\ftype@suppfigure{1}
+\def\ext@suppfigure{lsf}
+\def\fnum@suppfigure{\textbf{\suppfigurename~\thesuppfigure}}
+\def\suppfigure{\@float{suppfigure}}
+\def\endsuppfigure{\end@float}
+\@namedef{suppfigure*}{\@dblfloat{suppfigure}}
+\@namedef{endsuppfigure*}{\end@dblfloat}
+
+
 % TABLE
 %
 \newcounter{table}[chapter]
-\def\thetable{\thechapter.\@arabic\c@table}
+\def\thetable{\@arabic\c@table}
 
 \def\fps@table{tbp}
 \def\ftype@table{2}
